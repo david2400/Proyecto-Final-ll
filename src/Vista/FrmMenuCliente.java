@@ -107,7 +107,7 @@ public class FrmMenuCliente extends javax.swing.JFrame {
     private void btnCompraTiquetesMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnCompraTiquetesMouseClicked
         // TODO add your handling code here:
 
-        FrmCompraTiquetes abrir = new FrmCompraTiquetes();
+        FrmReservas abrir = new FrmReservas();
         abrir.setVisible(true);
         dispose();
 

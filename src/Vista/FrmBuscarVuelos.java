@@ -140,7 +140,7 @@ public class FrmBuscarVuelos extends javax.swing.JFrame {
     private void btnVolverAlMenuActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnVolverAlMenuActionPerformed
         // TODO add your handling code here:
 
-        FrmCompraTiquetes abrir = new FrmCompraTiquetes();
+        FrmReservas abrir = new FrmReservas();
         abrir.setVisible(true);
         dispose();
 
